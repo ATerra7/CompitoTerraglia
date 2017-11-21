@@ -1,6 +1,10 @@
 /* Terraglia Marco */
 
+<<<<<<< HEAD
 /* Riga per il conflitto*/
+=======
+/* Modifica per il conflitto */
+>>>>>>> FIX_BUG
 
 #include <iostream>
 using namespace std;
