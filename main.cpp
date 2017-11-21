@@ -1,6 +1,6 @@
 /* Terraglia Marco */
 
-/* Riga per il conflitto */
+/* Riga per il conflitto*/
 
 #include <iostream>
 using namespace std;
